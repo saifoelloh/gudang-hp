@@ -11,4 +11,5 @@
 - clone your forked repository
 - open the project inside terminal or cmd
 - install project with `yarn` or `npm install`
-- run project with `yarn dev` or `npm run dev`
+- `yarn dev` or `npm run dev`
+- happy hacking
