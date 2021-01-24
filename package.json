@@ -9,7 +9,12 @@
   },
   "dependencies": {
     "express": "^4.17.1",
+<<<<<<< HEAD
+    "express-handlebars": "^5.2.0",
+    "tailwindcss": "^2.0.2"
+=======
     "mysql": "^2.18.1"
+>>>>>>> ade58b3e0082fe31ac86c8bd19cd553522de74b2
   },
   "devDependencies": {
     "nodemon": "^2.0.6"
